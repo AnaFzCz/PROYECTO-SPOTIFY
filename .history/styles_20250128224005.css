@@ -104,7 +104,6 @@ h1 {
     font-size: 14px;
     margin: 8px 0px;
     padding: 16px 20px;
-    border-radius: 10px;
 }
 
 .seccion_playlist .seccion_playlist_contenido {
@@ -115,7 +114,6 @@ h1 {
 .seccion_playlist_contenido .text {
     padding-bottom: 14px;
     color: #fff;
-    font-family: "DM Sans", sans-serif;
 }
 
 .seccion_playlist_contenido .title {
@@ -134,79 +132,4 @@ h1 {
     color: #000;
     border-radius: 20px;
     font-size: 12px;
-    font-weight: 700;
-    font-family: "DM Sans", sans-serif;
-    text-decoration: none;
-    text-transform: none;
-    padding: 10px;
-    margin-top: 12px;
-    border: 0px;
-    width: 113px;
-}
-
-.sidebar {
-    margin: 25px 20 px;
-
-}
-
-.sidebar .cookies a {
-    color: #b3b3b3;
-    font-weight: 500;
-    font-size: 10px;
-    text-decoration: none;
-}
-
-.sidebar .cookies a:hover {
-    text-decoration: underline;
-}
-
-.sidebar .lenguajes_button {
-    background-color: transparent;
-    border: 1px solid #878787;
-    color: #fff;
-    font-weight: bold;
-    cursor: pointer;
-    width: 170px;
-    margin: 8px;
-    padding: 8px;
-    border-radius: 20px;
-}
-
-.final_pagina {
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    background: linear-gradient(to right, #101926, #2bdefd);
-    padding: 15px 48px;
-    display: flex;
-    justify-content: space-between;
-}
-
-.final_pagina .final_pagina_titulo {
-    color: #ffffff;
-    text-transform: uppercase;
-    font-weight: 400;
-    font-size: 12px;
-    margin-bottom: 10px;
-}
-
-.final_pagina .final_pagina-subtitulo {
-
-    color: #ffffff;
-    font-size: 14px;
-    font-weight: 500;
-}
-
-.final_pagina button {
-    background-color: #ffffff;
-    color: #000;
-    font-size: 16px;
-    font-weight: bold;
-    padding: 14px 30px;
-    border: 0px;
-    border-radius: 40px;
-    cursor: pointer;
-    flex-shrink: 0;
-
 }

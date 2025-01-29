@@ -104,7 +104,6 @@ h1 {
     font-size: 14px;
     margin: 8px 0px;
     padding: 16px 20px;
-    border-radius: 10px;
 }
 
 .seccion_playlist .seccion_playlist_contenido {
@@ -115,7 +114,6 @@ h1 {
 .seccion_playlist_contenido .text {
     padding-bottom: 14px;
     color: #fff;
-    font-family: "DM Sans", sans-serif;
 }
 
 .seccion_playlist_contenido .title {
@@ -169,44 +167,5 @@ h1 {
     width: 170px;
     margin: 8px;
     padding: 8px;
-    border-radius: 20px;
-}
-
-.final_pagina {
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    background: linear-gradient(to right, #101926, #2bdefd);
-    padding: 15px 48px;
-    display: flex;
-    justify-content: space-between;
-}
-
-.final_pagina .final_pagina_titulo {
-    color: #ffffff;
-    text-transform: uppercase;
-    font-weight: 400;
-    font-size: 12px;
-    margin-bottom: 10px;
-}
-
-.final_pagina .final_pagina-subtitulo {
-
-    color: #ffffff;
-    font-size: 14px;
-    font-weight: 500;
-}
-
-.final_pagina button {
-    background-color: #ffffff;
-    color: #000;
-    font-size: 16px;
-    font-weight: bold;
-    padding: 14px 30px;
-    border: 0px;
-    border-radius: 40px;
-    cursor: pointer;
-    flex-shrink: 0;
-
+border-radius:20px;
 }
