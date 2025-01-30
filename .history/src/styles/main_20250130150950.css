@@ -1,0 +1,28 @@
+/*header*/
+.main-container {
+    max-width: 80vw;
+    height: 100vh;
+    margin-left: 320px;
+    margin-right: 56px;
+
+}
+
+.header--navegation {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 16px;
+    margin: 10px;
+    border-radius: 8px;
+    background: #121212;
+}
+
+.header--navegation .navigation{
+    display: flex;
+    justify-content: space-around;
+    align-items:center;
+}
+
+.header--navegation .navigation .arrow-left{
+    margin-right: 1.25rem;
+}
