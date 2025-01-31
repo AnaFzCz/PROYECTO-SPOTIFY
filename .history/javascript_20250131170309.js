@@ -10,7 +10,7 @@ function requestApi(searchTerm) {
 }
 
 function displayResults(result) {
-    resultPlaylist.classList.add('hidden')
+    resultPlaylist.classList.add('hidden');
     const artistName = document.getElementById('artist-name');
     const artistImage = document.getElementById('artist-img');
 
