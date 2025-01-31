@@ -18,16 +18,16 @@ body {
     padding: 16px 0 0 16px;
 }
 
-.sidebar_navigation .logo img {
+.sidebar_navigation .logo  img{
     width: 80px;
 }
 
-.logo {
+.logo img {
     background: #121212;
     display: flex;
     border-radius: 8px;
     padding: 16px 0 0 16px;
-
+    
 }
 
 .sidebar nav ul {
@@ -56,7 +56,6 @@ body {
     padding: 4px 8px;
     color: #b3b3b3;
     font-weight: 600;
-    font-size: 14px;
     margin-top: 10px;
 }
 
@@ -143,8 +142,8 @@ body {
     width: 113px;
 }
 
-.sidebar.cookies {
-    margin: 25px 20px;
+.sidebar {
+    margin: 25px 20 px;
 
 }
 
@@ -160,7 +159,6 @@ body {
 }
 
 .sidebar .lenguajes_button {
-    align-items: center;
     background-color: transparent;
     border: 1px solid #878787;
     color: #fff;
@@ -181,10 +179,6 @@ body {
     padding: 15px 48px;
     display: flex;
     justify-content: space-between;
-}
-
-.final_pagina .text {
-    flex-shrink: 0;
 }
 
 .final_pagina .final_pagina_titulo {
